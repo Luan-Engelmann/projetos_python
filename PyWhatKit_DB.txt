@@ -1,0 +1,20 @@
+Date: 24/8/2024
+Time: 14:22
+Phone Number: +555196039450
+Message: Teste mensagem pelo python
+--------------------
+Date: 24/8/2024
+Time: 14:28
+Phone Number: +555180489574
+Message: Teste mensagem pelo python
+--------------------
+Date: 24/8/2024
+Time: 14:30
+Phone Number: +555180489574, +55997354558
+Message: Teste mensagem pelo python
+--------------------
+Date: 24/8/2024
+Time: 14:34
+Phone Number: +555180489574
+Message: Teste mensagem pelo python
+--------------------
